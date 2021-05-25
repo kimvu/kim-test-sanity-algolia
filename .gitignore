@@ -1,0 +1,6 @@
+node_modules
+studio/public
+.next
+.env.local
+.DS_Store
+studio/dist/
